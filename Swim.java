@@ -1,5 +1,6 @@
 public interface Swim {
 
+    
     void dive();
 
     int swimDown(int meters);
